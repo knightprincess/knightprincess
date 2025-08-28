@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="./assets/micaela terminal.gif" alt="About Me Terminal GIF"/>
+  <img src="./assets/micaela-terminal.gif" alt="About Me Terminal GIF"/>
 </p>
 
 ## 𖹭.ᐟ Hello, I'm Mica 
@@ -38,6 +38,7 @@
 ![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)
 
 
+<br>
 
 
 <!--
