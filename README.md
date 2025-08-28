@@ -1,9 +1,9 @@
 <!--
 -->
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<center>
   <img src="./assets/about_me_terminal.gif" alt="About Me Terminal GIF"/>
-</div>
+</center>
 
 <!--
      My mission, because I'm a superhero!
