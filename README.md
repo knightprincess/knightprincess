@@ -1,13 +1,13 @@
 <!--
   Hi darling, this is my about me code, have a look!
-
+ 
 -->
 
 <p align="center">
   <img src="./assets/micaela-terminal.gif" alt="About Me Terminal GIF"/>
 </p>
 
-## 𖹭.ᐟ Hello, I'm Mica 
+## Hello, I'm Mica ୭ 🧷 ✧ ˚. ᵎᵎ 🌷͙
 
 ֶָ֢- I'm a **Video Game Programming Student** | **Designer** <br>
 ֶָ֢- About me : A student of the craft with a background in industrial design, learning to code for the fun and creativity it unlocks as I'm a gemini venus after all <br>
