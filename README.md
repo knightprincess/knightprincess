@@ -1,9 +1,8 @@
 <!--
 -->
 
-
-<div>
-    <img src="./assets/about_me_terminal.gif" alt="About Me Terminal GIF"/>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="./assets/about_me_terminal.gif" alt="About Me Terminal GIF"/>
 </div>
 
 <!--
