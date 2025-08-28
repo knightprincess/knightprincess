@@ -1,40 +1,46 @@
 <!--
+  Hi darling, this is my about me code, have a look!
+
 -->
 
 <p align="center">
-  <img src="./assets/about_me_terminal.gif" alt="About Me Terminal GIF"/>
+  <img src="./assets/micaela terminal.gif" alt="About Me Terminal GIF"/>
 </p>
 
+## 𖹭.ᐟ Hello, I'm Mica 
+
+ֶָ֢- I'm a **Video Game Programming Student** | **Designer** <br>
+ֶָ֢- About me : A student of the craft with a background in industrial design, learning to code for the fun and creativity it unlocks as I'm a gemini venus after all <br>
+ֶָ֢- Currently **Developing my skills in quality assurance and software testing**
+
+  
 <!--
-     My mission, because I'm a superhero!
--->
-<!--
-     This is the list of my skills and tools I am studying!
--->
-### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
-
-### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
-
-<!--
-     I also have my own blog with useful information, check it out ^^
--->
-
-### Publications
-
-
-You can find my publications on Medium and Dev.to, where I share career insights, tips, and my knowledge and experience in tech.
-I also delve into personal thoughts and research on AI, quantum computing and other interesting topics.
-
-<!--
-Check out my latest post 👇  
-
-
+     I wish this profile looked more complete (and you might ask, "complete how?" who knows anymore), but the truth is I
+     only started this journey this year.
+     I'm not rushing the process, and I might (or might not) have started heavily on learning as much as I could
+     as you can see, looking forward to help out and to contribute to this universe and also looking forward to make
+     mistakes again and again.
+     
 -->
 
 
+## Main Skills
+![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)
+![React](https://img.shields.io/badge/-React-eee?style=flat-square&logo=react&logoColor=0088cc)
+![Next.js](http://img.shields.io/badge/-Next.js-eee?style=flat-square&logo=next.js&logoColor=000)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-eee?style=flat-square&logo=tailwind-css&logoColor=06B6D4)
+![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)
+![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=4951aa)
+
+
+## Studying
+![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor=F7BD2F)
+![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)
+
+
+
 
 <!--
-     Thanks for being my guest <3
+     Thanks for being my guest and reading <3 
+     And remember: "Just because it's not on your own doorstep doesn't make it right, we gotta make it right" yes you and I.
 -->
