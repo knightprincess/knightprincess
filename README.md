@@ -1,17 +1,9 @@
 <!--
-
-
 -->
 
-
-
-
-<!--
-    Your own Terminal GIF can be created here -> https://www.terminalgif.com
--->
 
 <div>
-    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
+    <img src="./assets/about_me_terminal.gif" alt="About Me Terminal GIF"/>
 </div>
 
 <!--
