@@ -36,10 +36,11 @@
 ## Studying
 ![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor=F7BD2F)
 ![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)
-
-
 <br>
 
+## 💌⭑.ᐟ
+Free Palestine, Free Congo, Free Sudan, Free Yemen, Free Haití <br>
+Free all oppressed and occupied territories and occupied and colonized people
 
 <!--
      Thanks for being my guest and reading <3 
