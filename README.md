@@ -1,5 +1,5 @@
 <!--
-  Hi darling, this is my about me code, have a look!
+  Hi there, this is my about me code, have a look!
  
 -->
 
@@ -20,6 +20,9 @@
      I'm not rushing the process, and I might (or might not) have started heavily on learning as much as I could
      as you can see, looking forward to help out and to contribute to this universe and also looking forward to make
      mistakes again and again.
+
+     I'm currently studying testing and automation, as well as an introduction to python to have a base for more languages later on.
+     I've been participating in jams about design, web design, and game development too. 
      
 -->
 
@@ -44,5 +47,5 @@ Free all oppressed and occupied territories and occupied and colonized people
 
 <!--
      Thanks for being my guest and reading <3 
-     And remember: "Just because it's not on your own doorstep doesn't make it right, we gotta make it right" yes you and I.
+     And remember: keep 
 -->
