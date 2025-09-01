@@ -42,7 +42,7 @@
 <br>
 
 ## 💌⭑.ᐟ
-Free Palestine, Free Congo, Free Sudan, Free Yemen, Free Haití <br>
+Free Palestine, Free Congo, Free Sudan, Free Yemen, Free Haití, Free Indonesia <br>
 Free all oppressed and occupied territories and occupied and colonized people
 
 <!--
