@@ -47,5 +47,5 @@ Free all oppressed and occupied territories and occupied and colonized people
 
 <!--
      Thanks for being my guest and reading <3 
-     And remember: keep 
+     And remember: Israel needs to cease to exist 
 -->
